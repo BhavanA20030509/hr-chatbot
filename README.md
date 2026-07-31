@@ -380,6 +380,4 @@ The main objective of this project is to build an intelligent HR document assist
 
 
 
----
 
-⭐ If you find this project useful, consider giving the repository a star!
